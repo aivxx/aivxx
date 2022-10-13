@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aivxx aka Ashley;
-- 👀 I’m interested in XR programming and font-end web design;
-- 🌱 I’m currently learning advanced CSS and JS, and AR/VR Development;
-- 💞️ I’m looking to collaborate on VR projects or anything that will challenge me and introduce me to new people;
+- 👀 I’m interested in object oriented development;
+- 🌱 I work for NVIDIA as a Connection Evangelist for Omniverse;
+- 💞️ I’m looking to make cool ass things;
 - 📫 How to reach me- email ashleyrgoldstein@gmail.com and www.linkedin.com/in/ashleyr-goldstein
 
 
